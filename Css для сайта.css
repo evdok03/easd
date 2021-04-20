@@ -1,0 +1,39 @@
+.h1{
+    color: purple;
+   font-size: medium;
+    background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+.h2{
+    background-position: center;
+ text-align: center;
+ text-shadow: rgb(12, 11, 11);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifs;
+ color: rgb(54, 53, 54);
+font-size: large;
+}
+.razmeri{
+    height: auto;
+    width: 45%;
+    float: left;
+    background-color: burlywood;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.razmeri2{
+    height: auto;
+    width: 45%;
+    float: right;
+    text-align: center;
+    background-color: cadetblue;
+    margin-right: 15px;
+}
+.boder{
+    background-image:url(http://krolist.ru/assets/images/interesnoe/f4ebb746ca42700ee34057937cf5a5c2.jpg);
+    background-size: cover;
+}
+.blya{
+    text-align: center;
+    background-color: rgba(235, 74, 74, 0.329);
+}
